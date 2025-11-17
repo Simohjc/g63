@@ -10044,18 +10044,20 @@ textarea.form-control {
 
 
 .price-circle {
-  background: linear-gradient(135deg, #004aad, #ff7b00); /* gradient background */
-  color: #fff; /* white text */
-  border-radius: 50%; /* make it circular */
-  padding: 20px 26px; /* size of the circle */
+  background: linear-gradient(1deg, #F3E495, #F3E495); /* gradient background */
+  color: #ED4512; /* white text */
+  border-radius:30px; /* make it circular */
+  padding: 1px 1px; /* size of the circle */
   font-weight: 800; /* bold text */
   display: inline-block;
   text-align: center;
-  font-size: 28px; /* bigger number */
+  font-size: 60px; /* bigger number */
   margin-left: 8px; /* space from “À partir de” */
+  margin-top: 12px;
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); /* subtle shadow */
-  border: 3px solid #fff; /* optional border for more visibility */
+  border: 1px solid #fff; /* optional border for more visibility */
 }
+
 
 
 
