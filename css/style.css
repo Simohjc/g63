@@ -3516,7 +3516,7 @@ input[type="button"].btn-block {
   align-items: center; }
 
 .navbar-toggler {
-  padding: 0.25rem 0.75rem;
+  padding: 0.50rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
   background-color: transparent;
@@ -8327,7 +8327,7 @@ h1, h2, h3, h4, h5,
       color: #F54927; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(255, 255, 255, 0.5) !important;
+    color: #F0E43D !important;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
